@@ -12,7 +12,7 @@ Este projeto consiste em um sistema simples de vendas implementado em Java, comp
 O sistema utiliza interação com o usuário através de caixas de diálogo (JOptionPane) para cadastrar dados, realizar operações e exibir resultados.
 
 ## Funcionalidades
-![carro](https://github.com/user-attachments/assets/af0bec2b-eae5-4f25-bf65-bb1c12850844)
+
 
 ### Classe `Carro`
 - Cadastro de veículo com as informações:
@@ -22,28 +22,28 @@ O sistema utiliza interação com o usuário através de caixas de diálogo (JOp
   - Valor de venda
 - Atualização do valor de venda com aplicação de um desconto percentual.
 - Exibição de um resumo dos dados do veículo.
+![carro](https://github.com/user-attachments/assets/af0bec2b-eae5-4f25-bf65-bb1c12850844)
 
-![cliente](https://github.com/user-attachments/assets/5765f248-e7f7-4150-b79d-561272e2e23b)
+
 
 ### Classe `Cliente`
 - Cadastro de cliente com validação de idade (deve ser maior que 18 anos).
 - Exibição de um resumo dos dados do cliente.
-
-![venda](https://github.com/user-attachments/assets/b1c244c5-bf14-4fad-addb-68caac332465)
+![cliente](https://github.com/user-attachments/assets/5765f248-e7f7-4150-b79d-561272e2e23b)
 
 ### Classe `Venda`
 - Realiza a venda de um veículo para um cliente.
 - Calcula o valor da parcela para financiamento em 36 meses.
 - Valida se o cliente pode realizar a compra com base na regra:
   - O valor da parcela não pode exceder 30% da renda mensal do cliente.
-
-![main](https://github.com/user-attachments/assets/175efcb0-d450-496c-8e10-fef46e824855)
+ ![venda](https://github.com/user-attachments/assets/b1c244c5-bf14-4fad-addb-68caac332465)
 
 ### Classe `Main`
 - Executa o fluxo principal:
   - Cria instâncias de `Carro` e `Cliente`.
   - Realiza o cadastro dos dados.
   - Aplica desconto no veículo e exibe o valor de venda atualizado.
+![main](https://github.com/user-attachments/assets/175efcb0-d450-496c-8e10-fef46e824855)
 
 ## Como Executar o Projeto
 
