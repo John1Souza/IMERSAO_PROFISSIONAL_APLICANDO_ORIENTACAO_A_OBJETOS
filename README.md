@@ -36,7 +36,7 @@ O sistema utiliza interação com o usuário através de caixas de diálogo (JOp
 - Calcula o valor da parcela para financiamento em 36 meses.
 - Valida se o cliente pode realizar a compra com base na regra:
   - O valor da parcela não pode exceder 30% da renda mensal do cliente.
- ![venda](https://github.com/user-attachments/assets/b1c244c5-bf14-4fad-addb-68caac332465)
+![venda](https://github.com/user-attachments/assets/b1c244c5-bf14-4fad-addb-68caac332465)
 
 ### Classe `Main`
 - Executa o fluxo principal:
