@@ -42,7 +42,7 @@ O sistema utiliza interação com o usuário através de caixas de diálogo (JOp
 - Executa o fluxo principal:
   - Cria instâncias de `Carro` e `Cliente`.
   - Realiza o cadastro dos dados.
-  - Aplica desconto no veículo e exibe o valor de venda atualizado.
+  - Aplica desconto no veículo e contabiliza o valor de venda atualizado.
 ![main](https://github.com/user-attachments/assets/175efcb0-d450-496c-8e10-fef46e824855)
 
 ## Como Executar o Projeto
